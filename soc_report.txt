@@ -1,0 +1,12 @@
+MINI SOC REPORT
+
+Detected Events:
+- Brute force attack
+- Suspicious login
+- Privilege escalation
+- Data access
+
+Severity: CRITICAL
+
+Conclusion:
+Full attack chain detected.
